@@ -61,16 +61,4 @@ for (i=0; i< noOfButtons; i++ ) {
 
     }
 
-    /*
-    var buttons = document.getElementsByTagName("button");
-    let myAudio = document.querySelector('#audio');
-    var i = 0;
-    while (i < buttons.length) {
-      buttons[i].addEventListener("click", handleClick);
-      i++;
-    }
-    
-    function handleClick() {
-      myAudio.play();
-    }*/
-
+ 
